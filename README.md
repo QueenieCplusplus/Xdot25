@@ -6,11 +6,6 @@ it is a protocol of ITU-T (國際電信聯盟 電信標準化部門). it helps t
 
 They use X.25 protocol to make Packets-SW in Network. This protocol enables carrier to detect error and offer covery.
 
-# Stream Line using X.25
-
-see Frame Relay. (bneficial to save bandwidth)
-
-
 
        Tele Carrier     --------------------------------------  PSN
             |
@@ -22,6 +17,13 @@ see Frame Relay. (bneficial to save bandwidth)
             ---- PAD, packet assembler/diassembler (end device to DCE)
             |
             ---- DCE, data circuit-terminate equipment
+
+# Stream Line using X.25
+
+see Frame Relay. (bneficial to save bandwidth)
+
+
+
           
 
 
