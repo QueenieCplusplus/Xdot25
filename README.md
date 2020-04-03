@@ -22,6 +22,12 @@ They use X.25 protocol to make Packets-SW in Network. This protocol enables carr
 
 see Frame Relay. (bneficial to save bandwidth)
 
+# Support Both SVC & PVC
+
+SVC: sw virtual circuit
+
+PVC: permanent virtual circuit
+
 
 
           
