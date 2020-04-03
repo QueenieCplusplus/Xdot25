@@ -8,4 +8,6 @@ They use X.25 protocol to make Packets-SW in Network. This protocol enables carr
 
 # Stream Line using X.25
 
-see Frame Relay.
+see Frame Relay. (bneficial to save bandwidth)
+
+
