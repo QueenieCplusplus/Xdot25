@@ -11,3 +11,17 @@ They use X.25 protocol to make Packets-SW in Network. This protocol enables carr
 see Frame Relay. (bneficial to save bandwidth)
 
 
+
+       Tele Carrier     --------------------------------------  PSN
+            |
+            |
+            ---- DTE, data terminat equipment (workstations & hosts)
+            |
+            ---- PSE, packet sw exchange
+            |
+            ---- PAD, packet assembler/diassembler (end device to DCE)
+            |
+            ---- DCE, data circuit-terminate equipment
+          
+
+
