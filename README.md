@@ -4,4 +4,4 @@ it is a protocol of ITU-T (國際電信聯盟 電信標準化部門). it helps t
 
 # Tele Carrier
 
-They use X.25 protocol to make Packets-SW in Network.
+They use X.25 protocol to make Packets-SW in Network. This protocol enables carrier to detect error and offer covery.
